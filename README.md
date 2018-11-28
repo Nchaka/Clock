@@ -1,2 +1,2 @@
 # clock
-A simple WebGL clock
+A simple WebGL clock... In progress.
